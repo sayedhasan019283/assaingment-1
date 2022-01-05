@@ -36,7 +36,7 @@
 }
 .batton{
     text-decoration: none;
-    padding: 8px, 15px;
+    padding: 8px 15px;
     background-image: linear-gradient(tomato, rgba(0,0,0,0) );
 }
 .orange{
@@ -48,4 +48,57 @@
     font-weight: 900;
     margin-top: 120px;
 }
-
+.secound-part-display{
+    display: flex;
+    margin-left: 150px;
+}
+.width{
+    width: 30%;
+}
+.illustrator-img{
+    height: 100px;
+    width: 100px;
+}
+.text-edit{
+    text-align: left;
+}
+#first-bg-color{
+    background-color: rgb(233, 222, 222);
+    border-radius: 15px;
+    
+}
+#second-bg-color{
+    background-color: rgb(241, 187, 214);
+    border-radius: 15px;
+   
+}
+#third-bg-color{
+    background-color: rgb(233, 218, 192);
+    border-radius: 15px;
+    
+}
+.third-part-display{
+    display: flex;
+    width: 80%;
+    background-image: url(img/shape-1.png);
+    
+}
+.backround-img{
+    background-image: url(img/shape-1.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    background-position: left;
+    background-size: contain;
+   
+}
+.third-part-img{
+    
+    height: 800px;
+    width: 800px;
+    margin-right: 0, auto;
+}
+.fix-third-display{
+    width: 40%;
+    margin-left: 0, auto;
+}
