@@ -36,7 +36,7 @@
 }
 .batton{
     text-decoration: none;
-    padding: 8px 15px;
+  
     background-image: linear-gradient(tomato, rgba(0,0,0,0) );
 }
 .orange{
@@ -59,8 +59,9 @@
     height: 100px;
     width: 100px;
 }
-.text-edit{
-    text-align: left;
+.sec-text{
+    padding-left: 15px;
+    padding-bottom: 10px;
 }
 #first-bg-color{
     background-color: rgb(233, 222, 222);
@@ -77,28 +78,47 @@
     border-radius: 15px;
     
 }
-.third-part-display{
+.develop-part{
     display: flex;
-    width: 80%;
-    background-image: url(img/shape-1.png);
-    
-}
-.backround-img{
-    background-image: url(img/shape-1.png);
-    background-repeat: no-repeat;
-    height: 300px;
-    width: 300px;
-    background-position: left;
-    background-size: contain;
    
 }
-.third-part-img{
-    
-    height: 800px;
-    width: 800px;
-    margin-right: 0, auto;
+.width-thied-part{
+    width: 50%;
+    margin-left: 0% auto;
 }
-.fix-third-display{
-    width: 40%;
-    margin-left: 0, auto;
+.width-thied-part img{
+    width: 350px;
+    height: 350px;
+    margin-left: 150px;
 }
+.width-forth-part img{
+    width: 350px;
+    height: 350px;
+    margin-left: 100px;
+}
+.width-forth-part{
+    width: 50%;
+    margin-left: 0% auto;
+}
+.alinment{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.footer-box{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+}
+.white-colour{
+    color: white;
+}
+.text-div{
+   padding-top: 25px;
+}
+
+
+
+
+
+
