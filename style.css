@@ -142,7 +142,18 @@
 .text-div{
    padding-top: 15px;
 }
-
+.bg-for-codeing{
+    background-image: url(img/shape-1.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: 70px 120px;
+}
+.bg-part{
+    background-image: url(img/shape-1.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: 370px 250px;
+}
 
 
 
