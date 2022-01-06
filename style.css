@@ -88,6 +88,9 @@
     width: 50%;
     margin-left: 0% auto;
 }
+.text-fix{
+    width: 80%;
+}
 .width-thied-part img{
     width: 350px;
     height: 350px;
@@ -116,7 +119,7 @@
     color: white;
 }
 .text-div{
-   padding-top: 25px;
+   padding-top: 15px;
 }
 
 
