@@ -112,6 +112,24 @@
     padding-left: 100px;
     padding-top: 50px;
 }
+.extera-part{
+    display: flex;
+}
+.extera-wide{
+    width: 40%;
+}
+.extera-wide img{
+    height: 500px;
+    width: 600px;
+}
+.fix-extera{
+    margin-left: 190px;
+}
+.fix-h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 .footer-box{
     width: 100%;
     height: 150px;
@@ -124,6 +142,7 @@
 .text-div{
    padding-top: 15px;
 }
+
 
 
 
