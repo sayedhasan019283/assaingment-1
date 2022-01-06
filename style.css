@@ -6,6 +6,7 @@
 .first-part{
     display: flex;
     width: 90%;
+    margin-left: 100px;
 }
 .border{
     border-left: 7px solid;
@@ -50,7 +51,7 @@
 }
 .secound-part-display{
     display: flex;
-    margin-left: 150px;
+    margin-left: 90px;
 }
 .width{
     width: 30%;
@@ -80,6 +81,7 @@
 }
 .develop-part{
     display: flex;
+    margin-top: 100px;
    
 }
 .width-thied-part{
